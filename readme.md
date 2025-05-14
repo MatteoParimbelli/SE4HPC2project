@@ -26,7 +26,7 @@ cd build
 cmake ..
 cmake --build .
 ```
-3. **Test (in the build folder):**
+3. **Test (in the folder):**
 
 ```sh
 ctest
